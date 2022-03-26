@@ -1,0 +1,41 @@
+
+
+
+body {width:90vw; height:1800px;background-color:#FFF8DC;margin-left:8vw;padding:0;}
+h1{font-size:5vw;color:brown;text-align:center;}
+h2{font-size:2.5vw;color:brown;text-align:center;margin-top:-10px;}
+img{  display: block;
+  margin-left: auto;
+  margin-right: auto; }
+dt{font-size:2vw;text-align:center;}
+dd{font-size:1.5vw;color:black;}
+strong {color:brown;}
+p{text-align:center;font-size:1.5vw;color: black;}
+.titulo {width:80vw;height:200px;background-color:azure;}
+.banner{width:80vw;height:100px;background-color:orange;}
+.conteúdo{width:73vw;height:58vw;margin-left:3.5vw;}
+.box {width:80vw;height:200vw;background-color:azure;padding-top:-5px;}
+.foto{background-color:#99cc32;margin-top:22vw;width:80vw; }
+li{font-size:2vw;color:white;padding:5vw;display:inline-block;}
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  }
+a:hover, a:active {
+  background-color:gold;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.samba {
+  margin: auto;
+  width: 100%;
+  border: 3px solid #fffaf0;
+  padding: 10px;
+background-color:#f5f5f5;
+}
+
